@@ -17,8 +17,8 @@ This project aims to analyse Havaianas retail sales dashboard to identify the ke
 * [`rainfall-monthly-total.csv`](./data/rainfall-monthly-total.csv): Monthly total rain recorded in mm(millimeters) from 1982 to 2022
 
 #### Additional Data
-* [`havaianas_visitors.csv`](../data/havaianas_visitors.csv): Daily total visitors in Havaianas ION Orchard shop recorded in numbers from 1st January 2015 to 31st December 2015
-* [`retail_sales.csv`](../data/retail_sales.csv): Retail numbers such as sales revenue, units sold, discounts given, basket size in Havaianas ION Orchard shop recorded from 1st January 2018 to 31st December 2018
+* [`havaianas_visitors.csv`](./data/havaianas_visitors.csv): Daily total visitors in Havaianas ION Orchard shop recorded in numbers from 1st January 2015 to 31st December 2015
+* [`retail_sales.csv`](./data/retail_sales.csv): Retail numbers such as sales revenue, units sold, discounts given, basket size in Havaianas ION Orchard shop recorded from 1st January 2018 to 31st December 2018
 
 ---
 
