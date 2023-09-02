@@ -1,4 +1,4 @@
-# ![]Project 1: Exploring climate data of Singapore
+# Project 1: Exploring climate data of Singapore
 
 
 ### Problem Statement
